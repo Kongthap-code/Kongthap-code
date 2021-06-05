@@ -74,7 +74,7 @@ func Footer() {
 	HeaderFooter := "_____Contact me_____"
 	//Info
 	Facebook := "Kongthap phuengsang";
-	Mail := "sisoopth@hotmail.com";
+	Email := "sisoopth@hotmail.com";
 	Discord := "ᴋᴇᴀ#8184";
 	Github := "Kongthap-code"
   	Instagram := "kp_98ps"
@@ -82,7 +82,7 @@ func Footer() {
 	
 	//Print Info
 	fmt.Printf("%s \n",HeaderFooter)
-	fmt.Printf("Facebook: %s \nMail: %s \nDiscord : %s\nTelephone_number : %s\n",Facebook,Mail,Discord,Telephone_number)
+	fmt.Printf("Facebook: %s \nEmail: %s \nDiscord : %s\nTelephone_number : %s\n",Facebook,Email,Discord,Telephone_number)
 	fmt.Printf("Github: %s \nInstagram : %s\n",Github,Instagram)
 	fmt.Printf("Thank you")
 }
