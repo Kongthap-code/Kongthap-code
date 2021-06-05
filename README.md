@@ -5,17 +5,7 @@ package main
 import "fmt"
 
 func main() {
-    Header()
     infouser()
-}
-  
-func Header() {
-Header := `Hello! developers, I'm a web developer. 
-I like to learn new website technology.
-Have fun with my git.
-
-`
-    fmt.Printf(Header)
 }
 
 func infouser() {
