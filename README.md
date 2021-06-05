@@ -87,9 +87,3 @@ func Footer() {
 	fmt.Printf("Thank you")
 }
 ```
-
-## 2
-asdf
-
-## 3
-asdf
