@@ -1,4 +1,4 @@
-## Hi!
+## Hello! developers, I'm a web developer. I like to learn new website technology. Have fun with my git.
 ```go
 package main
   
