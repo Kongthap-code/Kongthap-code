@@ -22,11 +22,7 @@ func infouser() {
 	//Header
 	HeaderInfo := "About me"
 	//Info
-	First_name := "Kongthap"
-	Last_name := "phuengsang"
-	Nickname := "Folk"
-	Birthday := "25 Jan 48"
-	Age := 16
+	First_name := "Kongthap" Last_name := "phuengsang" Nickname := "Folk" Birthday := "25 Jan 48" Age := 16
 	
 	//Show Info
 	fmt.Printf("%s \n",HeaderInfo)
