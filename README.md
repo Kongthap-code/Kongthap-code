@@ -3,14 +3,9 @@
 ```go
 package main
   
-import (
-	"fmt"
-	"strings"
-	"time"
-)
+import "fmt"
 
 func main() {
-    Loading()
     Header()
     Body()
     Footer()
@@ -26,18 +21,6 @@ Have fun with my git.
 
 `
 	fmt.Printf(Header)
-}
-
-//Load Info
-func Loading() {
-	const col = 20
-
-	bar := fmt.Sprintf("\x0c[%%-%vs]", col)
-	for i := 0; i < col; i++ {
-		fmt.Printf(bar, strings.Repeat("=", i)+">")
-		time.Sleep(40 * time.Millisecond)
-	}
-	fmt.Printf(bar+" Done!", strings.Repeat("=", col))
 }
 
 //About me
