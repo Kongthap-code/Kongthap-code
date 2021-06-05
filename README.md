@@ -3,9 +3,14 @@
 ```go
 package main
   
-import "fmt"
+import (
+	"fmt"
+	"strings"
+	"time"
+)
 
 func main() {
+    Loading()
     Header()
     Body()
     Footer()
@@ -13,7 +18,9 @@ func main() {
 
 func Header() {
 	//Header
-Header := `Hello developers, I'm a web developer.
+Header := `
+_____ MainHeader _____
+Hello developers, I'm a web developer.
 I like to learn new website technology.
 Have fun with my git.
 
@@ -21,10 +28,23 @@ Have fun with my git.
 	fmt.Printf(Header)
 }
 
+//Load Info
+func Loading() {
+	const col = 20
+
+	bar := fmt.Sprintf("\x0c[%%-%vs]", col)
+	for i := 0; i < col; i++ {
+		fmt.Printf(bar, strings.Repeat("=", i)+">")
+		time.Sleep(40 * time.Millisecond)
+	}
+	fmt.Printf(bar+" Done!", strings.Repeat("=", col))
+}
+
 //About me
 func Body() {
 	//Header
 	HeaderBody := "_____About me_____"
+
 	//Info
 	First_name := "Kongthap";
 	Last_name := "phuengsang";
