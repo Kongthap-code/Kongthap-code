@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
