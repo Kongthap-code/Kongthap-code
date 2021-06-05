@@ -56,6 +56,16 @@ func Body() {
 	fmt.Printf("%s \n",HeaderBody)
 	fmt.Printf("Name: %s %s\nNickname: %s \nBirthday : %s\n",First_name,Last_name,Nickname,Birthday)
 	fmt.Printf("Age: %d\n",Age)
+	
+	languages := [5]string{"JavaScript", "GO", "PHP", "Python", "C"}
+	stylesheets := [2]string{"CSS", "Bootstrap"}
+	frameworks := [1]string{"React"} 
+	runtimes:= [1]string{"Node"}
+	databases:= [2]string{"MySQL", "MariaDB"}
+	
+	fmt.Printf("Languages : %v\nStylesheets : %v\nFrameworks : %v\n",languages,stylesheets,frameworks)
+	fmt.Printf("Runtimes : %v\nDatabases : %v\n",runtimes,databases)
+	
 }
 
 //Contact me
@@ -66,11 +76,15 @@ func Footer() {
 	Facebook := "Kongthap phuengsang";
 	Mail := "sisoopth@hotmail.com";
 	Discord := "ᴋᴇᴀ#8184";
+	Github := "Kongthap-code"
+  	Instagram := "kp_98ps"
 	Telephone_number := "+66 83-2310639";
 	
 	//Print Info
 	fmt.Printf("%s \n",HeaderFooter)
 	fmt.Printf("Facebook: %s \nMail: %s \nDiscord : %s\nTelephone_number : %s\n",Facebook,Mail,Discord,Telephone_number)
+	fmt.Printf("Github: %s \nInstagram : %s\n",Github,Instagram)
+	fmt.Printf("Thank you")
 }
 ```
 
