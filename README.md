@@ -17,10 +17,6 @@
           &nbsp; 
           &nbsp;
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-          &nbsp;
-          &nbsp;
-      <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-        <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+        <img src="https://media.discordapp.net/attachments/802266980873666600/866305034890248192/DYWdMjmWkAMUxj9-removebg-preview.png" width="30px" alt="YouTube">          </a>   
   </p> 
 </p>
