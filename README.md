@@ -5,7 +5,7 @@
     <br>I love listening to R&B while working. When it rains a lot.<br>
   </samp>
   
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <img src="https://media.discordapp.net/attachments/802266980873666600/866313894926090270/bonefire.gif" width="200"/>
 
   <p align="center">
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/profile.php?id=100009380508678">
