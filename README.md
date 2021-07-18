@@ -13,7 +13,7 @@
           &nbsp; 
           &nbsp;
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-        <img src="https://media.discordapp.net/attachments/802266980873666600/866303561796681768/31c29e1581fabdf.png" width="30px" alt="Twitter"></a>
+        <img src="https://media.discordapp.net/attachments/802266980873666600/866303739388362832/31c29e1581fabdf_1.png" width="30px" alt="Twitter"></a>
           &nbsp; 
           &nbsp;
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
