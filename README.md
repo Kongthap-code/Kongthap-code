@@ -9,7 +9,7 @@
 
   <p align="center">
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-        <img src="https://media.discordapp.net/attachments/802266980873666600/866301780978565140/162-1622540_8bit-icons-02-8-bit-facebook-icon-removebg-preview.png" width="30px" alt="LinkedIn"></a>
+        <img src="https://media.discordapp.net/attachments/802266980873666600/866302320630693918/162-1622540_8bit-icons-02-8-bit-facebook-icon-removebg-preview_1.png" width="30px" alt="LinkedIn"></a>
           &nbsp; 
           &nbsp;
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
