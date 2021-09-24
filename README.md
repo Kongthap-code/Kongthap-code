@@ -4,7 +4,7 @@
     Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
     <br>I love listening to lofi, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
-    My favorite stack is (MERN) React ⚛️, Mongo🍃, Express🅴, Nginx 🅽<br><br>
+    My favorite stack is (MERN) React ⚛ , Mongo🍃, Express🅴, Nginx 🅽<br><br>
   </samp>
   
   <img src="https://media.discordapp.net/attachments/802266980873666600/866313894926090270/bonefire.gif" width="200"/>
