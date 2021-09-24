@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
-    <br>I love listening to R&B, watching my beautiful Neovim. 
+    <br>I love listening to lofi, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
     My favorite stack is (MERN) React , Mongo, Express, Nginx<br><br>
   </samp>
