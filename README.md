@@ -5,9 +5,6 @@
     <br>I love listening to lofi, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
     My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,mongodb,apollo,prisma,react,nextjs,styledcomponents,docker" />
-  </a><br><br>
     
   </samp>
   
@@ -29,5 +26,8 @@
     <samp>
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.<br>
   </p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,mongodb,apollo,prisma,react,nextjs,styledcomponents,docker" />
+  </a><br><br>
 </p>
 
