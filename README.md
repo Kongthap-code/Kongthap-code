@@ -6,7 +6,7 @@
     <br>along with the most delicious cocoa.<br><br>
     My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,apollo,prisma,react,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,apollo,prisma,react,nextjs,styledcomponents,docker" />
   </a><br><br>
     
   </samp>
