@@ -5,11 +5,10 @@
     <br>I love listening to lofi, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
     My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
-    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+    <img src="https://skillicons.dev/icons?i=js,ts,postgres,apollo,docker" />
+  </a><br><br>
+    
   </samp>
   
   <img src="https://media.discordapp.net/attachments/802266980873666600/866313894926090270/bonefire.gif" width="200"/>
