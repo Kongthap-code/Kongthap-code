@@ -26,8 +26,10 @@
     <samp>
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.<br>
   </p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,mongodb,apollo,prisma,react,nextjs,styledcomponents,docker" />
-  </a><br><br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,postgres,mongodb,apollo,prisma,react,nextjs,styledcomponents,docker" />
+    </a>
+  </p><br><br>
 </p>
 
