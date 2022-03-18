@@ -23,12 +23,12 @@
           &nbsp; 
           &nbsp;
     <samp>
-    <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.<br>
-  </p> 
-  <p align="center">
+      <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+    <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.<br>
+  </p> 
 </p>
 
