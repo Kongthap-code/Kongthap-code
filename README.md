@@ -27,7 +27,7 @@
           &nbsp; 
           &nbsp;
     <samp>
-    <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.<br>
+    <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.!<br>
   </p> 
 </p>
 
