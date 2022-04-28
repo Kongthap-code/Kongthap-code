@@ -4,7 +4,9 @@
     Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
     <br>I love listening to Post-Rock, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
-    My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
+    My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br>
+    <img src="https://media.discordapp.net/attachments/954284761969487873/969104733262467102/Snap_1.png?width=2520&height=1201" />
+    <br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
     </a>
