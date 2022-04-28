@@ -2,7 +2,7 @@
    <br>
    <samp>
    Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
-   <br>I love listening to Post-Rock, watching my beautiful Neovim. 
+   <br>I'm very passionate about [Ethereum](https://ethereum.org/en/) and blockchain technology in general. 
    <br>along with the most delicious cocoa.<br><br>
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
