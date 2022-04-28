@@ -4,7 +4,6 @@
    Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
    <br>I love listening to Post-Rock, watching my beautiful Neovim. 
    <br>along with the most delicious cocoa.<br><br>
-   My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
    </a>
