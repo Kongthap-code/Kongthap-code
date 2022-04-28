@@ -5,8 +5,6 @@
     <br>I love listening to Post-Rock, watching my beautiful Neovim. 
     <br>along with the most delicious cocoa.<br><br>
     My favorite stack is (MERN) React ⚛, Mongo 🍃, Apollo 🚀, Express 🅴, Nginx 🅽<br><br>
-    <img src="https://media.discordapp.net/attachments/954284761969487873/969105668680339467/Snap_2.png?width=2520&height=1197" />
-    <br><br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
     </a>
@@ -27,6 +25,10 @@
           &nbsp; 
           &nbsp;
     <samp>
+      <br><br>
+      <img src="https://media.discordapp.net/attachments/954284761969487873/969105668680339467/Snap_2.png?width=2520&height=1197" />
+      <br><br>
+      
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.!<br>
   </p> 
 </p>
