@@ -9,6 +9,7 @@
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
     </a>
     <br>
+    <img src="https://media.discordapp.net/attachments/954284761969487873/969105668680339467/Snap_2.png?width=2520&height=1197" />
   </samp>
 
   <p align="center">
@@ -25,7 +26,6 @@
           &nbsp; 
           &nbsp;
     <samp>
-      <img src="https://media.discordapp.net/attachments/954284761969487873/969105668680339467/Snap_2.png?width=2520&height=1197" />
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="https://kongthap-code.github.io/Kongthapcode-blog/">My blog</a></b>.!<br>
   </p> 
 </p>
