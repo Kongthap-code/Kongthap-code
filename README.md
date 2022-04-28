@@ -4,8 +4,7 @@
    Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Kongthap-code">Folk</a></b>.
    <br>I'm very passionate about <a href="https://ethereum.org/en/">
       Ethereum</a> and blockchain technology in general. 
-   <br>Yes, I'm saying I'm studying blockchain and 
-   <br>I'm committed to continue in this field for a long time.<br><br>
+   <br>Yes, I'm saying I'm studying blockchain and I'm committed to continue in this field for a long time.<br><br>
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker" />
    </a>
