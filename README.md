@@ -5,8 +5,8 @@
    <br>I'm very passionate about <a href="https://ethereum.org/en/">
       Ethereum</a> and blockchain technology in general. 
    <br>Yes, I'm saying I'm studying blockchain and I'm committed to continue in this field for a long time.<br><br>
-   <a href="https://skillicons.dev">
-   <img width="80px" src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker,vite,fastapi,nginx" />
+   <a align="center" href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,ts,html,css,vim,solidity,postgres,mongodb,apollo,prisma,react,nextjs,svelte,styledcomponents,docker,vite,fastapi,nginx" />
    </a>
    <br>
    </samp>
