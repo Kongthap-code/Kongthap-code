@@ -6,7 +6,7 @@
       Ethereum</a> and blockchain technology in general. 
    <br>Yes, I'm saying I'm studying blockchain and I'm committed to continue in this field for a long time.<br><br>
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,neovim,angular,ipfs,solidity,postgres,mongodb,vite,apollo,solidjs,prisma,react,remix,docker,nextjs,go,dart,svelte,styledcomponents,docker,jest" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,go,solidity,dart,neovim,angular,ipfs,postgres,mongodb,vite,apollo,prisma,solidjs,react,remix,nextjs,svelte,styledcomponents" />
    </a>
    <br>
    </samp>
